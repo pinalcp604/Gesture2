@@ -1,3 +1,5 @@
+
+// Hello I am making some modification to the existing code to make it better.
 package application.example.gesture;
 
 import androidx.appcompat.app.AppCompatActivity;
